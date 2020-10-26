@@ -8,11 +8,11 @@
 </head>
 <body>
 	<header> 헤더 입니다.
+		<div>회원 가입</div>
 	</header>
 	<article> 본문 입니다.
 	</article>
 	<footer> 푸터 입니다.
 	</footer>
-	테스트해보자
 </body>
 </html>
