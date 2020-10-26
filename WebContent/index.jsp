@@ -13,6 +13,5 @@
 	</article>
 	<footer> 푸터 입니다.
 	</footer>
-
 </body>
 </html>
